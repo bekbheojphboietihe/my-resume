@@ -1,0 +1,141 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(190, 204, 199);
+}
+/* Управление блоками / Block Management */
+.Block-management {
+    display: flex;
+    flex-direction: row-reverse ;
+    background-color: aliceblue;
+    margin: 100px 50px 50px 50px;
+}
+
+/* Информация про меня / about-my-experience */
+.Main-unit{
+    font-size: 18px;
+   
+}
+
+.QA{
+    color: orange;
+}
+
+/* Информация про меня / about-my-experience */
+.about-my-experience{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    font-size: 18px;
+    font-weight: 700px;
+    color: rgb(3, 3, 3);
+    margin: 50px 50px 50px 50px;
+}
+
+/* Имя / Name */
+.name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin: 0 0 25px 0;
+}
+
+/* Ручное / Manual */
+.Manual {
+    color: rgb(0, 0, 0);
+    font-style: bold;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 20px;
+
+}
+
+/* Обучение которое я прошел / The training I received */
+.I-received { 
+    color:  rgb(0, 0, 0);
+    font-weight: bold; 
+    padding: 0px 0px 0px 20px;
+}
+
+.contact-content{
+    color: rgb(89, 83, 119);
+    padding: 0px 0px 100px 0px;
+    font-size: 14px;
+}
+.my-experience {
+    color: rgb(0, 0, 0);
+    
+}
+
+/* Мой опыт / my Job */
+.my-Job{ 
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    font-size: 25px;
+    font-weight: 700px;
+    color: rgb(3, 3, 3);
+    margin: 50px 50px 50px 50px;
+}
+
+.date{
+    font-size: 16px;
+}
+
+.pillar{
+    color: orange;
+}
+
+.company{
+    font-size: 18px;
+}
+
+.my-responsibilities{
+    color: rgb(109, 107, 114);
+}
+.square {
+    font-size: 14px;
+    padding-left: 20px;
+    color: rgb(7, 5, 5);
+
+}
+
+/* Мои контакты */
+.My-contakt {
+    background-color: rgb(48, 43, 71);
+    margin: 50px 0px 50px 50px;
+}
+
+.content-secjen {
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 700px;
+    padding-left: 20px;  
+}
+
+.content-color {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.contact-content-title{
+    color: orange;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.contact-content-link {
+    color: rgb(233, 233, 233);
+}
+
+/* Мои технические навыки *//* Мои коммуникативные навыки */
+.content-color-orange{
+    color: orange;
+}
+
+.content-color-black {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+}
+
+
+
